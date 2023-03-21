@@ -1,1 +1,1 @@
-c-functions
+c-function
